@@ -1,0 +1,3520 @@
+[
+{
+  "catchPhrase": "pthhhpth",
+  "gender": "Male",
+  "villagerId": 1,
+  "name": "Bob",
+  "personality": "Lazy",
+  "song": "K.K. Ragtime",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "dearie",
+  "gender": "Female",
+  "villagerId": 2,
+  "name": "Fauna",
+  "personality": "Normal",
+  "song": "K.K. Stroll",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "fuzzball",
+  "gender": "Male",
+  "villagerId": 3,
+  "name": "Curt",
+  "personality": "Cranky",
+  "song": "K.K. Lament",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "ruffian",
+  "gender": "Female",
+  "villagerId": 4,
+  "name": "Portia",
+  "personality": "Snooty",
+  "song": "Cafe K.K.",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "flexin",
+  "gender": "Male",
+  "villagerId": 5,
+  "name": "Leonardo",
+  "personality": "Jock",
+  "song": "K.K. Safari",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "tralala",
+  "gender": "Female",
+  "villagerId": 6,
+  "name": "Cheri",
+  "personality": "Peppy",
+  "song": "K.K. Synth",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "alpha",
+  "gender": "Male",
+  "villagerId": 7,
+  "name": "Kyle",
+  "personality": "Smug",
+  "song": "K.K. Adventure",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "Ayyeeee",
+  "gender": "Male",
+  "villagerId": 8,
+  "name": "Al",
+  "personality": "Lazy",
+  "song": "Steep Hill",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "yo yo yo",
+  "gender": "Female",
+  "villagerId": 9,
+  "name": "Renée",
+  "personality": "Uchi",
+  "song": "Surfin' K.K.",
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "buckaroo",
+  "gender": "Male",
+  "villagerId": 10,
+  "name": "Lopez",
+  "personality": "Smug",
+  "song": "K.K. Milonga",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "croak-kay",
+  "gender": "Female",
+  "villagerId": 11,
+  "name": "Jambette",
+  "personality": "Normal",
+  "song": "K.K. Country",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "swine",
+  "gender": "Male",
+  "villagerId": 12,
+  "name": "Rasher",
+  "personality": "Cranky",
+  "song": "K.K. Faire",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "bun bun",
+  "gender": "Female",
+  "villagerId": 13,
+  "name": "Tiffany",
+  "personality": "Snooty",
+  "song": "K.K. Rock",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "cardio",
+  "gender": "Male",
+  "villagerId": 14,
+  "name": "Sheldon",
+  "personality": "Jock",
+  "song": "K.K. Folk",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "peach",
+  "gender": "Female",
+  "villagerId": 15,
+  "name": "Bluebear",
+  "personality": "Peppy",
+  "song": "K.K. Ska",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "quacko",
+  "gender": "Male",
+  "villagerId": 16,
+  "name": "Bill",
+  "personality": "Jock",
+  "song": "King K.K.",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "kitty cat",
+  "gender": "Female",
+  "villagerId": 17,
+  "name": "Kiki",
+  "personality": "Normal",
+  "song": "K.K. Country",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "monch",
+  "gender": "Male",
+  "villagerId": 18,
+  "name": "Deli",
+  "personality": "Lazy",
+  "song": "K.K. Marathon",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "graaagh",
+  "gender": "Female",
+  "villagerId": 19,
+  "name": "Alli",
+  "personality": "Snooty",
+  "song": "K.K. Chorale",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "meooo-OH",
+  "gender": "Male",
+  "villagerId": 20,
+  "name": "Kabuki",
+  "personality": "Cranky",
+  "song": "K.K. Folk",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "how now",
+  "gender": "Female",
+  "villagerId": 21,
+  "name": "Patty",
+  "personality": "Peppy",
+  "song": "K.K. Calypso",
+  "specie": "Cow"
+},
+{
+  "catchPhrase": "bzzert",
+  "gender": "Male",
+  "villagerId": 22,
+  "name": "Jitters",
+  "personality": "Jock",
+  "song": "K.K. Samba",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "ribette",
+  "gender": "Female",
+  "villagerId": 23,
+  "name": "Gigi",
+  "personality": "Snooty",
+  "song": "Only Me",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "ridukulous",
+  "gender": "Male",
+  "villagerId": 24,
+  "name": "Quillson",
+  "personality": "Smug",
+  "song": "K.K. Groove",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "pouches",
+  "gender": "Female",
+  "villagerId": 25,
+  "name": "Marcie",
+  "personality": "Normal",
+  "song": "K.K. Aria",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "brrrrrrrrr",
+  "gender": "Male",
+  "villagerId": 26,
+  "name": "Puck",
+  "personality": "Lazy",
+  "song": "K.K. Casbah",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "cheeky",
+  "gender": "Female",
+  "villagerId": 27,
+  "name": "Shari",
+  "personality": "Uchi",
+  "song": "K.K. Oasis",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "sucker",
+  "gender": "Male",
+  "villagerId": 28,
+  "name": "Octavian",
+  "personality": "Cranky",
+  "song": "K.K. D & B",
+  "specie": "Octopus"
+},
+{
+  "catchPhrase": "hay-OK",
+  "gender": "Female",
+  "villagerId": 29,
+  "name": "Winnie",
+  "personality": "Peppy",
+  "song": "My Place",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "cluckling",
+  "gender": "Male",
+  "villagerId": 30,
+  "name": "Knox",
+  "personality": "Cranky",
+  "song": "K.K. Aria",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "skraaaaw",
+  "gender": "Male",
+  "villagerId": 31,
+  "name": "Sterling",
+  "personality": "Jock",
+  "song": "Lucky K.K.",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "deelish",
+  "gender": "Female",
+  "villagerId": 32,
+  "name": "Bonbon",
+  "personality": "Peppy",
+  "song": "K.K. Disco",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "mrmpht",
+  "gender": "Male",
+  "villagerId": 33,
+  "name": "Punchy",
+  "personality": "Lazy",
+  "song": "K.K. Love Song",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "snoot",
+  "gender": "Female",
+  "villagerId": 34,
+  "name": "Opal",
+  "personality": "Snooty",
+  "song": "Forest Life",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "nutty",
+  "gender": "Female",
+  "villagerId": 35,
+  "name": "Poppy",
+  "personality": "Normal",
+  "song": "K.K. Lullaby",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "squinky",
+  "gender": "Male",
+  "villagerId": 36,
+  "name": "Limberg",
+  "personality": "Cranky",
+  "song": "K.K. Folk",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "sugarbill",
+  "gender": "Female",
+  "villagerId": 37,
+  "name": "Deena",
+  "personality": "Normal",
+  "song": "Mr. K.K.",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "bunyip",
+  "gender": "Male",
+  "villagerId": 38,
+  "name": "Snake",
+  "personality": "Jock",
+  "song": "K.K. Lullaby",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "growf",
+  "gender": "Female",
+  "villagerId": 39,
+  "name": "Bangle",
+  "personality": "Peppy",
+  "song": "K.K. Soul",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "hurk",
+  "gender": "Male",
+  "villagerId": 40,
+  "name": "Phil",
+  "personality": "Smug",
+  "song": "Steep Hill",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "pffffft",
+  "gender": "Female",
+  "villagerId": 41,
+  "name": "Monique",
+  "personality": "Snooty",
+  "song": "K.K. Swing",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "yawwwn",
+  "gender": "Male",
+  "villagerId": 42,
+  "name": "Nate",
+  "personality": "Lazy",
+  "song": "K.K. Lullaby",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "pipsqueak",
+  "gender": "Male",
+  "villagerId": 43,
+  "name": "Samson",
+  "personality": "Jock",
+  "song": "Go K.K. Rider!",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "twinkles",
+  "gender": "Female",
+  "villagerId": 44,
+  "name": "Tutu",
+  "personality": "Peppy",
+  "song": "K.K. Steppe",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "moocher",
+  "gender": "Male",
+  "villagerId": 45,
+  "name": "T-Bone",
+  "personality": "Cranky",
+  "song": "K.K. Steppe",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "ahhhhhh",
+  "gender": "Female",
+  "villagerId": 46,
+  "name": "Mint",
+  "personality": "Snooty",
+  "song": "K.K. Soul",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "pudgy",
+  "gender": "Male",
+  "villagerId": 47,
+  "name": "Pudge",
+  "personality": "Lazy",
+  "song": "Rockin' K.K.",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "tweedledee",
+  "gender": "Female",
+  "villagerId": 48,
+  "name": "Midge",
+  "personality": "Normal",
+  "song": "K.K. Lullaby",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "bleh eh eh",
+  "gender": "Male",
+  "villagerId": 49,
+  "name": "Gruff",
+  "personality": "Cranky",
+  "song": "K.K. Rockabilly",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "powderpuff",
+  "gender": "Female",
+  "villagerId": 50,
+  "name": "Flurry",
+  "personality": "Normal",
+  "song": "Hypno K.K.",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "clip-clawp",
+  "gender": "Male",
+  "villagerId": 51,
+  "name": "Clyde",
+  "personality": "Lazy",
+  "song": "K.K. Dixie",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "eeks",
+  "gender": "Female",
+  "villagerId": 52,
+  "name": "Bella",
+  "personality": "Peppy",
+  "song": "K.K. Metal",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "squirt",
+  "gender": "Male",
+  "villagerId": 53,
+  "name": "Biff",
+  "personality": "Jock",
+  "song": "The K. Funk",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "tsk tsk",
+  "gender": "Female",
+  "villagerId": 54,
+  "name": "Yuka",
+  "personality": "Snooty",
+  "song": "Soulful K.K.",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "precisely",
+  "gender": "Male",
+  "villagerId": 55,
+  "name": "Lionel",
+  "personality": "Smug",
+  "song": "K.K. Moody",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "cha",
+  "gender": "Female",
+  "villagerId": 56,
+  "name": "Flo",
+  "personality": "Uchi",
+  "song": "Space K.K.",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "hot dog",
+  "gender": "Male",
+  "villagerId": 57,
+  "name": "Cobb",
+  "personality": "Jock",
+  "song": "Pondering",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "eaglet",
+  "gender": "Female",
+  "villagerId": 58,
+  "name": "Amelia",
+  "personality": "Snooty",
+  "song": "K.K. Condor",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "nee-deep",
+  "gender": "Male",
+  "villagerId": 59,
+  "name": "Jeremiah",
+  "personality": "Lazy",
+  "song": "K.K. Mambo",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "what what",
+  "gender": "Female",
+  "villagerId": 60,
+  "name": "Cherry",
+  "personality": "Uchi",
+  "song": "K.K. Fusion",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "nay",
+  "gender": "Male",
+  "villagerId": 61,
+  "name": "Roscoe",
+  "personality": "Cranky",
+  "song": "K.K. Dirge",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "snoutie",
+  "gender": "Female",
+  "villagerId": 62,
+  "name": "Truffles",
+  "personality": "Peppy",
+  "song": "Two Days Ago",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "yeah buddy",
+  "gender": "Male",
+  "villagerId": 63,
+  "name": "Eugene",
+  "personality": "Smug",
+  "song": "K.K. Cruisin'",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "lambchop",
+  "gender": "Female",
+  "villagerId": 64,
+  "name": "Eunice",
+  "personality": "Normal",
+  "song": "K.K. Waltz",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "buh-kay",
+  "gender": "Male",
+  "villagerId": 65,
+  "name": "Goose",
+  "personality": "Jock",
+  "song": "K.K. Country",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "gumdrop",
+  "gender": "Female",
+  "villagerId": 66,
+  "name": "Annalisa",
+  "personality": "Normal",
+  "song": "King K.K.",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "alrighty",
+  "gender": "Male",
+  "villagerId": 67,
+  "name": "Benjamin",
+  "personality": "Lazy",
+  "song": "Wandering",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "sooey",
+  "gender": "Female",
+  "villagerId": 68,
+  "name": "Pancetti",
+  "personality": "Snooty",
+  "song": "K.K. Fusion",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "harrumph",
+  "gender": "Male",
+  "villagerId": 69,
+  "name": "Chief",
+  "personality": "Cranky",
+  "song": "DJ K.K.",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "tee-hee",
+  "gender": "Female",
+  "villagerId": 70,
+  "name": "Bunnie",
+  "personality": "Peppy",
+  "song": "K.K. Aria",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "thump",
+  "gender": "Male",
+  "villagerId": 71,
+  "name": "Clay",
+  "personality": "Lazy",
+  "song": "K.K. Safari",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "no doy",
+  "gender": "Female",
+  "villagerId": 72,
+  "name": "Diana",
+  "personality": "Snooty",
+  "song": "Stale Cupcakes",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "WHONK",
+  "gender": "Male",
+  "villagerId": 73,
+  "name": "Axel",
+  "personality": "Jock",
+  "song": "K.K. Dixie",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "nightshade",
+  "gender": "Female",
+  "villagerId": 74,
+  "name": "Muffy",
+  "personality": "Uchi",
+  "song": "K.K. Sonata",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "snoozit",
+  "gender": "Male",
+  "villagerId": 75,
+  "name": "Henry",
+  "personality": "Smug",
+  "song": "K.K. Soul",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "bloop",
+  "gender": "Female",
+  "villagerId": 76,
+  "name": "Bertha",
+  "personality": "Normal",
+  "song": "Space K.K.",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "ah-CHOO",
+  "gender": "Male",
+  "villagerId": 77,
+  "name": "Cyrano",
+  "personality": "Cranky",
+  "song": "K.K. Faire",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "slacker",
+  "gender": "Female",
+  "villagerId": 78,
+  "name": "Peanut",
+  "personality": "Peppy",
+  "song": "K.K. Salsa",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "duuude",
+  "gender": "Male",
+  "villagerId": 79,
+  "name": "Cole",
+  "personality": "Lazy",
+  "song": "Spring Blossoms",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "bo peep",
+  "gender": "Female",
+  "villagerId": 80,
+  "name": "Willow",
+  "personality": "Snooty",
+  "song": "K.K. Etude",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "b-b-buddy",
+  "gender": "Male",
+  "villagerId": 81,
+  "name": "Roald",
+  "personality": "Jock",
+  "song": "K.K. Parade",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "quackidee",
+  "gender": "Female",
+  "villagerId": 82,
+  "name": "Molly",
+  "personality": "Normal",
+  "song": "K.K. Ballad",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "wuh",
+  "gender": "Male",
+  "villagerId": 83,
+  "name": "Walker",
+  "personality": "Lazy",
+  "song": "Two Days Ago",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "li'l bear",
+  "gender": "Male",
+  "villagerId": 84,
+  "name": "Poncho",
+  "personality": "Jock",
+  "song": "K.K. Condor",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "mimimi",
+  "gender": "Female",
+  "villagerId": 85,
+  "name": "Felicity",
+  "personality": "Peppy",
+  "song": "K.K. Lullaby",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "ol' bear",
+  "gender": "Male",
+  "villagerId": 86,
+  "name": "Ozzie",
+  "personality": "Lazy",
+  "song": "Mr. K.K.",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "teacup",
+  "gender": "Female",
+  "villagerId": 87,
+  "name": "Tia",
+  "personality": "Normal",
+  "song": "K.K. Marathon",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "cacaw",
+  "gender": "Male",
+  "villagerId": 88,
+  "name": "Lucha",
+  "personality": "Smug",
+  "song": "K.K. Western",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "girlfriend",
+  "gender": "Female",
+  "villagerId": 89,
+  "name": "Fuchsia",
+  "personality": "Uchi",
+  "song": "K.K. Rock",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "beach bum",
+  "gender": "Male",
+  "villagerId": 90,
+  "name": "Harry",
+  "personality": "Cranky",
+  "song": "K.K. Calypso",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "h-h-hon",
+  "gender": "Female",
+  "villagerId": 91,
+  "name": "Gwen",
+  "personality": "Snooty",
+  "song": "Drivin'",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "stubble",
+  "gender": "Male",
+  "villagerId": 92,
+  "name": "Coach",
+  "personality": "Jock",
+  "song": "Marine Song 2001",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "child",
+  "gender": "Female",
+  "villagerId": 93,
+  "name": "Kitt",
+  "personality": "Normal",
+  "song": "K.K. Chorale",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "me-YOWZA",
+  "gender": "Male",
+  "villagerId": 94,
+  "name": "Tom",
+  "personality": "Cranky",
+  "song": "K.K. Rally",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "pushy",
+  "gender": "Female",
+  "villagerId": 95,
+  "name": "Tipper",
+  "personality": "Snooty",
+  "song": "Soulful K.K.",
+  "specie": "Cow"
+},
+{
+  "catchPhrase": "burrup",
+  "gender": "Male",
+  "villagerId": 96,
+  "name": "Prince",
+  "personality": "Lazy",
+  "song": "To the Edge",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "quackle",
+  "gender": "Female",
+  "villagerId": 97,
+  "name": "Pate",
+  "personality": "Peppy",
+  "song": "K.K. Steppe",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "nyet",
+  "gender": "Male",
+  "villagerId": 98,
+  "name": "Vladimir",
+  "personality": "Cranky",
+  "song": "Agent K.K.",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "y'all",
+  "gender": "Female",
+  "villagerId": 99,
+  "name": "Savannah",
+  "personality": "Normal",
+  "song": "Forest Life",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "wut",
+  "gender": "Male",
+  "villagerId": 100,
+  "name": "Kidd",
+  "personality": "Smug",
+  "song": "Comrade K.K.",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "sparky",
+  "gender": "Female",
+  "villagerId": 101,
+  "name": "Phoebe",
+  "personality": "Uchi",
+  "song": "K.K. Flamenco",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "doodle-duh",
+  "gender": "Male",
+  "villagerId": 102,
+  "name": "Egbert",
+  "personality": "Lazy",
+  "song": "K.K. Technopop",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "arfer",
+  "gender": "Female",
+  "villagerId": 103,
+  "name": "Cookie",
+  "personality": "Peppy",
+  "song": "DJ K.K.",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "hoo-rah",
+  "gender": "Male",
+  "villagerId": 104,
+  "name": "Sly",
+  "personality": "Jock",
+  "song": "K.K. Safari",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "nutlet",
+  "gender": "Female",
+  "villagerId": 105,
+  "name": "Blaire",
+  "personality": "Snooty",
+  "song": "K.K. Island",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "skree-haw",
+  "gender": "Male",
+  "villagerId": 106,
+  "name": "Avery",
+  "personality": "Cranky",
+  "song": "K.K. Condor",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "po po",
+  "gender": "Female",
+  "villagerId": 107,
+  "name": "Nana",
+  "personality": "Normal",
+  "song": "K.K. Dixie",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "crunch",
+  "gender": "Male",
+  "villagerId": 108,
+  "name": "Peck",
+  "personality": "Jock",
+  "song": "Forest Life",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "purrr",
+  "gender": "Female",
+  "villagerId": 109,
+  "name": "Olivia",
+  "personality": "Snooty",
+  "song": "Two Days Ago",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "Highness",
+  "gender": "Male",
+  "villagerId": 110,
+  "name": "Cesar",
+  "personality": "Cranky",
+  "song": "K.K. Lament",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "nougat",
+  "gender": "Female",
+  "villagerId": 111,
+  "name": "Carmen",
+  "personality": "Peppy",
+  "song": "K.K. Technopop",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "le ham",
+  "gender": "Male",
+  "villagerId": 112,
+  "name": "Rodney",
+  "personality": "Smug",
+  "song": "K.K. Rockabilly",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "zip zoom",
+  "gender": "Male",
+  "villagerId": 113,
+  "name": "Scoot",
+  "personality": "Jock",
+  "song": "Marine Song 2001",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "snappy",
+  "gender": "Female",
+  "villagerId": 114,
+  "name": "Whitney",
+  "personality": "Snooty",
+  "song": "Lucky K.K.",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "eat it",
+  "gender": "Male",
+  "villagerId": 115,
+  "name": "Broccolo",
+  "personality": "Lazy",
+  "song": "K.K. Ragtime",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "doyoing",
+  "gender": "Female",
+  "villagerId": 116,
+  "name": "Coco",
+  "personality": "Normal",
+  "song": "K.K. Dirge",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "grumble",
+  "gender": "Male",
+  "villagerId": 117,
+  "name": "Groucho",
+  "personality": "Cranky",
+  "song": "K.K. Metal",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "lambkins",
+  "gender": "Female",
+  "villagerId": 118,
+  "name": "Wendy",
+  "personality": "Peppy",
+  "song": "K.K. Bossa",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "honeybun",
+  "gender": "Female",
+  "villagerId": 119,
+  "name": "Gabi",
+  "personality": "Peppy",
+  "song": "K.K. Love Song",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "it'sa me",
+  "gender": "Male",
+  "villagerId": 120,
+  "name": "Alfonso",
+  "personality": "Lazy",
+  "song": "Forest Life",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "bigfoot",
+  "gender": "Female",
+  "villagerId": 121,
+  "name": "Rhonda",
+  "personality": "Normal",
+  "song": "K.K. Ballad",
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "ROOOOOWF",
+  "gender": "Male",
+  "villagerId": 122,
+  "name": "Butch",
+  "personality": "Cranky",
+  "song": "K.K. Fusion",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "shorty",
+  "gender": "Male",
+  "villagerId": 123,
+  "name": "Moose",
+  "personality": "Jock",
+  "song": "Agent K.K.",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "pine nut",
+  "gender": "Female",
+  "villagerId": 124,
+  "name": "Timbra",
+  "personality": "Snooty",
+  "song": "K.K. Cruisin'",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "pronk",
+  "gender": "Male",
+  "villagerId": 125,
+  "name": "Zell",
+  "personality": "Smug",
+  "song": "K.K. D&B",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "bud",
+  "gender": "Female",
+  "villagerId": 126,
+  "name": "Pekoe",
+  "personality": "Normal",
+  "song": "Imperial K.K.",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "grooof",
+  "gender": "Male",
+  "villagerId": 127,
+  "name": "Teddy",
+  "personality": "Jock",
+  "song": "Mr. K.K.",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "wee baby",
+  "gender": "Female",
+  "villagerId": 128,
+  "name": "Mathilda",
+  "personality": "Snooty",
+  "song": "K.K. Ragtime",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "greenhorn",
+  "gender": "Male",
+  "villagerId": 129,
+  "name": "Ed",
+  "personality": "Smug",
+  "song": "K.K. Ballad",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "glimmer",
+  "gender": "Female",
+  "villagerId": 130,
+  "name": "Bianca",
+  "personality": "Peppy",
+  "song": "K.K. House",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "bucko",
+  "gender": "Male",
+  "villagerId": 131,
+  "name": "Filbert",
+  "personality": "Lazy",
+  "song": "Two Days Ago",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "mrowrr",
+  "gender": "Female",
+  "villagerId": 132,
+  "name": "Kitty",
+  "personality": "Snooty",
+  "song": "K.K. Etude",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "saltlick",
+  "gender": "Male",
+  "villagerId": 133,
+  "name": "Beau",
+  "personality": "Lazy",
+  "song": "Mountain Song",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "kid",
+  "gender": "Female",
+  "villagerId": 134,
+  "name": "Nan",
+  "personality": "Normal",
+  "song": "K.K. Etude",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "maaan",
+  "gender": "Male",
+  "villagerId": 135,
+  "name": "Bud",
+  "personality": "Jock",
+  "song": "K.K. Ska",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "li'l ears",
+  "gender": "Female",
+  "villagerId": 136,
+  "name": "Ruby",
+  "personality": "Peppy",
+  "song": "K.K. Ska",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "uh-hoo",
+  "gender": "Male",
+  "villagerId": 137,
+  "name": "Benedict",
+  "personality": "Lazy",
+  "song": "I Love You",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "snuffle",
+  "gender": "Female",
+  "villagerId": 138,
+  "name": "Agnes",
+  "personality": "Uchi",
+  "song": "K.K. House",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "glitter",
+  "gender": "Male",
+  "villagerId": 139,
+  "name": "Julian",
+  "personality": "Smug",
+  "song": "Stale Cupcakes",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "eekers",
+  "gender": "Female",
+  "villagerId": 140,
+  "name": "Bettina",
+  "personality": "Normal",
+  "song": "K.K. Swing",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "heeeeeyy",
+  "gender": "Male",
+  "villagerId": 141,
+  "name": "Jay",
+  "personality": "Jock",
+  "song": "K.K. Waltz",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "frappe",
+  "gender": "Female",
+  "villagerId": 142,
+  "name": "Sprinkle",
+  "personality": "Peppy",
+  "song": "Cafe K.K.",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "rerack",
+  "gender": "Male",
+  "villagerId": 143,
+  "name": "Flip",
+  "personality": "Jock",
+  "song": "K.K. Rally",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "snortle",
+  "gender": "Male",
+  "villagerId": 144,
+  "name": "Hugh",
+  "personality": "Lazy",
+  "song": "K.K. Mambo",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "slushie",
+  "gender": "Male",
+  "villagerId": 145,
+  "name": "Hopper",
+  "personality": "Cranky",
+  "song": "Lucky K.K.",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "chipmunk",
+  "gender": "Female",
+  "villagerId": 146,
+  "name": "Pecan",
+  "personality": "Snooty",
+  "song": "Cafe K.K.",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "quacko",
+  "gender": "Male",
+  "villagerId": 147,
+  "name": "Drake",
+  "personality": "Lazy",
+  "song": "K.K. Blues",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "guvnor",
+  "gender": "Female",
+  "villagerId": 148,
+  "name": "Alice",
+  "personality": "Normal",
+  "song": "Surfin' K.K.",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "ten-hut",
+  "gender": "Male",
+  "villagerId": 149,
+  "name": "Camofrog",
+  "personality": "Cranky",
+  "song": "K.K. Rock",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "cannoli",
+  "gender": "Female",
+  "villagerId": 150,
+  "name": "Anicotti",
+  "personality": "Peppy",
+  "song": "Neapolitan",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "Zoink",
+  "gender": "Male",
+  "villagerId": 151,
+  "name": "Chops",
+  "personality": "Smug",
+  "song": "K.K. Moody",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "urgh",
+  "gender": "Female",
+  "villagerId": 152,
+  "name": "Charlise",
+  "personality": "Uchi",
+  "song": "Mr. K.K.",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "cud",
+  "gender": "Male",
+  "villagerId": 153,
+  "name": "Vic",
+  "personality": "Cranky",
+  "song": "Lucky K.K.",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "me meow",
+  "gender": "Female",
+  "villagerId": 154,
+  "name": "Ankha",
+  "personality": "Snooty",
+  "song": "Marine Song 2001",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "brah",
+  "gender": "Male",
+  "villagerId": 155,
+  "name": "Drift",
+  "personality": "Jock",
+  "song": "K.K. Country",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "baaaffo",
+  "gender": "Female",
+  "villagerId": 156,
+  "name": "Vesta",
+  "personality": "Normal",
+  "song": "K.K. Steppe",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "non",
+  "gender": "Male",
+  "villagerId": 157,
+  "name": "Marcel",
+  "personality": "Lazy",
+  "song": "Comrade K.K.",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "snooooof",
+  "gender": "Female",
+  "villagerId": 158,
+  "name": "Pango",
+  "personality": "Peppy",
+  "song": "K.K. Casbah",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "wingo",
+  "gender": "Male",
+  "villagerId": 159,
+  "name": "Keaton",
+  "personality": "Smug",
+  "song": "K.K. Moody",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "stretch",
+  "gender": "Female",
+  "villagerId": 160,
+  "name": "Gladys",
+  "personality": "Normal",
+  "song": "K.K. Folk",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "snort",
+  "gender": "Male",
+  "villagerId": 161,
+  "name": "Hamphrey",
+  "personality": "Cranky",
+  "song": "K.K. Rally",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "uff da",
+  "gender": "Female",
+  "villagerId": 162,
+  "name": "Freya",
+  "personality": "Snooty",
+  "song": "Rockin' K.K.",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "psst",
+  "gender": "Male",
+  "villagerId": 163,
+  "name": "Kid Cat",
+  "personality": "Jock",
+  "song": "Go K.K. Rider!",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "sidekick",
+  "gender": "Female",
+  "villagerId": 164,
+  "name": "Agent S",
+  "personality": "Peppy",
+  "song": "DJ K.K.",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "villain",
+  "gender": "Male",
+  "villagerId": 165,
+  "name": "Big Top",
+  "personality": "Lazy",
+  "song": "K.K. Metal",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "vroom",
+  "gender": "Female",
+  "villagerId": 166,
+  "name": "Rocket",
+  "personality": "Uchi",
+  "song": "K.K. Adventure",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "toady",
+  "gender": "Female",
+  "villagerId": 167,
+  "name": "Lily",
+  "personality": "Normal",
+  "song": "K.K. Salsa",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "chuurp",
+  "gender": "Male",
+  "villagerId": 168,
+  "name": "Anchovy",
+  "personality": "Lazy",
+  "song": "K.K. Ragtime",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "me-WOW",
+  "gender": "Female",
+  "villagerId": 169,
+  "name": "Tabby",
+  "personality": "Peppy",
+  "song": "To the Edge",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "okey-dokey",
+  "gender": "Male",
+  "villagerId": 170,
+  "name": "Kody",
+  "personality": "Jock",
+  "song": "K.K. Country",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "quackulous",
+  "gender": "Female",
+  "villagerId": 171,
+  "name": "Miranda",
+  "personality": "Snooty",
+  "song": "K.K. Sonata",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "gronk",
+  "gender": "Male",
+  "villagerId": 172,
+  "name": "Del",
+  "personality": "Cranky",
+  "song": "K.K. March",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "yodelay",
+  "gender": "Female",
+  "villagerId": 173,
+  "name": "Paula",
+  "personality": "Uchi",
+  "song": "K.K. Dixie",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "no doubt",
+  "gender": "Male",
+  "villagerId": 174,
+  "name": "Ken",
+  "personality": "Smug",
+  "song": "Comrade K.K.",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "mew",
+  "gender": "Female",
+  "villagerId": 175,
+  "name": "Mitzi",
+  "personality": "Normal",
+  "song": "K.K. Swing",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "chaps",
+  "gender": "Male",
+  "villagerId": 176,
+  "name": "Rodeo",
+  "personality": "Lazy",
+  "song": "Stale Cupcakes",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "hipster",
+  "gender": "Female",
+  "villagerId": 177,
+  "name": "Bubbles",
+  "personality": "Peppy",
+  "song": "K.K. Stroll",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "oui oui",
+  "gender": "Male",
+  "villagerId": 178,
+  "name": "Cousteau",
+  "personality": "Jock",
+  "song": "Imperial K.K.",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "blih",
+  "gender": "Female",
+  "villagerId": 179,
+  "name": "Velma",
+  "personality": "Snooty",
+  "song": "K.K. Etude",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "unh-hunh",
+  "gender": "Male",
+  "villagerId": 180,
+  "name": "Elvis",
+  "personality": "Cranky",
+  "song": "K.K. Casbah",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "nuh uh",
+  "gender": "Female",
+  "villagerId": 181,
+  "name": "Canberra",
+  "personality": "Uchi",
+  "song": "K.K. House",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "check it",
+  "gender": "Male",
+  "villagerId": 182,
+  "name": "Colton",
+  "personality": "Smug",
+  "song": "Only Me",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "blurp",
+  "gender": "Female",
+  "villagerId": 183,
+  "name": "Marina",
+  "personality": "Normal",
+  "song": "Soulful K.K.",
+  "specie": "Octopus"
+},
+{
+  "catchPhrase": "snork",
+  "gender": "Male",
+  "villagerId": 184,
+  "name": "Spork",
+  "personality": "Lazy",
+  "song": "K.K. Mambo",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "ducky",
+  "gender": "Female",
+  "villagerId": 185,
+  "name": "Freckles",
+  "personality": "Peppy",
+  "song": "K.K. Song",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "boosh",
+  "gender": "Male",
+  "villagerId": 186,
+  "name": "Bam",
+  "personality": "Jock",
+  "song": "DJ K.K.",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "brrmph",
+  "gender": "Female",
+  "villagerId": 187,
+  "name": "Friga",
+  "personality": "Snooty",
+  "song": "K.K. Tango",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "nutcase",
+  "gender": "Male",
+  "villagerId": 188,
+  "name": "Ricky",
+  "personality": "Cranky",
+  "song": "K.K. Western",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "whatevs",
+  "gender": "Female",
+  "villagerId": 189,
+  "name": "Deirdre",
+  "personality": "Uchi",
+  "song": "K.K. Cruisin'",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "groovy",
+  "gender": "Male",
+  "villagerId": 190,
+  "name": "Hans",
+  "personality": "Smug",
+  "song": "K.K. D & B",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "la baa",
+  "gender": "Female",
+  "villagerId": 191,
+  "name": "Chevre",
+  "personality": "Normal",
+  "song": "K.K. Chorale",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "burrrn",
+  "gender": "Male",
+  "villagerId": 192,
+  "name": "Drago",
+  "personality": "Lazy",
+  "song": "Imperial K.K.",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "reeeeOWR",
+  "gender": "Female",
+  "villagerId": 193,
+  "name": "Tangy",
+  "personality": "Peppy",
+  "song": "K.K. Island",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "woo woof",
+  "gender": "Male",
+  "villagerId": 194,
+  "name": "Mac",
+  "personality": "Jock",
+  "song": "My Place",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "tooooot",
+  "gender": "Female",
+  "villagerId": 195,
+  "name": "Eloise",
+  "personality": "Snooty",
+  "song": "K.K. Jazz",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "grr-ribbit",
+  "gender": "Male",
+  "villagerId": 196,
+  "name": "Wart Jr.",
+  "personality": "Cranky",
+  "song": "To the Edge",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "uni-wow",
+  "gender": "Female",
+  "villagerId": 197,
+  "name": "Hazel",
+  "personality": "Uchi",
+  "song": "K.K. Disco",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "whiskers",
+  "gender": "Male",
+  "villagerId": 198,
+  "name": "Beardo",
+  "personality": "Smug",
+  "song": "K.K. Sonata",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "beaker",
+  "gender": "Female",
+  "villagerId": 199,
+  "name": "Ava",
+  "personality": "Normal",
+  "song": "K.K. Country",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "rookie",
+  "gender": "Male",
+  "villagerId": 200,
+  "name": "Chester",
+  "personality": "Lazy",
+  "song": "Imperial K.K.",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "mweee",
+  "gender": "Female",
+  "villagerId": 201,
+  "name": "Merry",
+  "personality": "Peppy",
+  "song": "DJ K.K.",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "otaku",
+  "gender": "Male",
+  "villagerId": 202,
+  "name": "Genji",
+  "personality": "Jock",
+  "song": "King K.K.",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "yelp",
+  "gender": "Female",
+  "villagerId": 203,
+  "name": "Greta",
+  "personality": "Snooty",
+  "song": "K.K. Jongara",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "snarrrl",
+  "gender": "Male",
+  "villagerId": 204,
+  "name": "Wolfgang",
+  "personality": "Cranky",
+  "song": "K.K. Song",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "ya know",
+  "gender": "Female",
+  "villagerId": 205,
+  "name": "Diva",
+  "personality": "Uchi",
+  "song": "K.K.  Bazaar",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "strudel",
+  "gender": "Male",
+  "villagerId": 206,
+  "name": "Klaus",
+  "personality": "Smug",
+  "song": "K.K. Milonga",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "bow-WOW",
+  "gender": "Female",
+  "villagerId": 207,
+  "name": "Daisy",
+  "personality": "Normal",
+  "song": "K.K. Soul",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "GAHHHH",
+  "gender": "Male",
+  "villagerId": 208,
+  "name": "Stinky",
+  "personality": "Jock",
+  "song": "Go K.K. Rider!",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "chimpy",
+  "gender": "Female",
+  "villagerId": 209,
+  "name": "Tammi",
+  "personality": "Peppy",
+  "song": "Imperial K.K.",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "fuzzers",
+  "gender": "Male",
+  "villagerId": 210,
+  "name": "Tucker",
+  "personality": "Lazy",
+  "song": "K.K. Safari",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "quite so",
+  "gender": "Female",
+  "villagerId": 211,
+  "name": "Blanche",
+  "personality": "Snooty",
+  "song": "K.K. Jongara",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "mon chou",
+  "gender": "Male",
+  "villagerId": 212,
+  "name": "Gaston",
+  "personality": "Cranky",
+  "song": "K.K. Dirge",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "sulky",
+  "gender": "Male",
+  "villagerId": 213,
+  "name": "Marshal",
+  "personality": "Smug",
+  "song": "Space K.K.",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "snortie",
+  "gender": "Female",
+  "villagerId": 214,
+  "name": "Gala",
+  "personality": "Normal",
+  "song": "Two Days Ago",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "bleeeeeck",
+  "gender": "Male",
+  "villagerId": 215,
+  "name": "Joey",
+  "personality": "Lazy",
+  "song": "K.K. Calypso",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "li'l hare",
+  "gender": "Female",
+  "villagerId": 216,
+  "name": "Pippy",
+  "personality": "Peppy",
+  "song": "K.K. Mambo",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "pardner",
+  "gender": "Male",
+  "villagerId": 217,
+  "name": "Buck",
+  "personality": "Jock",
+  "song": "My Place",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "cheeseball",
+  "gender": "Female",
+  "villagerId": 218,
+  "name": "Bree",
+  "personality": "Snooty",
+  "song": "Two Days Ago",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "punches",
+  "gender": "Male",
+  "villagerId": 219,
+  "name": "Rooney",
+  "personality": "Cranky",
+  "song": "K.K. Adventure",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "shearly",
+  "gender": "Male",
+  "villagerId": 220,
+  "name": "Curlos",
+  "personality": "Smug",
+  "song": "K.K. Samba",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "airmail",
+  "gender": "Female",
+  "villagerId": 221,
+  "name": "Skye",
+  "personality": "Normal",
+  "song": "Forest Life",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "myawn",
+  "gender": "Male",
+  "villagerId": 222,
+  "name": "Moe",
+  "personality": "Lazy",
+  "song": "K.K. Ragtime",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "pinky",
+  "gender": "Female",
+  "villagerId": 223,
+  "name": "Flora",
+  "personality": "Peppy",
+  "song": "K.K. Flamenco",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "hammie",
+  "gender": "Male",
+  "villagerId": 224,
+  "name": "Hamlet",
+  "personality": "Jock",
+  "song": "K.K. Reggae",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "my pet",
+  "gender": "Female",
+  "villagerId": 225,
+  "name": "Astrid",
+  "personality": "Snooty",
+  "song": "I Love You",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "g'tang",
+  "gender": "Male",
+  "villagerId": 226,
+  "name": "Monty",
+  "personality": "Cranky",
+  "song": "Pondering",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "squeaky",
+  "gender": "Female",
+  "villagerId": 227,
+  "name": "Dora",
+  "personality": "Normal",
+  "song": "Only Me",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "dawg",
+  "gender": "Male",
+  "villagerId": 228,
+  "name": "Biskit",
+  "personality": "Lazy",
+  "song": "K.K. Mambo",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "sugar cube",
+  "gender": "Female",
+  "villagerId": 229,
+  "name": "Victoria",
+  "personality": "Peppy",
+  "song": "K.K. Country",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "chips",
+  "gender": "Male",
+  "villagerId": 230,
+  "name": "Lyman",
+  "personality": "Jock",
+  "song": "K.K. Island",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "faboom",
+  "gender": "Female",
+  "villagerId": 231,
+  "name": "Violet",
+  "personality": "Snooty",
+  "song": "K.K. Faire",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "crushy",
+  "gender": "Male",
+  "villagerId": 232,
+  "name": "Frank",
+  "personality": "Cranky",
+  "song": "K.K. Casbah",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "fromage",
+  "gender": "Male",
+  "villagerId": 233,
+  "name": "Chadder",
+  "personality": "Smug",
+  "song": "K.K. Soul",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "shortcake",
+  "gender": "Female",
+  "villagerId": 234,
+  "name": "Merengue",
+  "personality": "Normal",
+  "song": "K.K. Stroll",
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "d-d-dude",
+  "gender": "Male",
+  "villagerId": 235,
+  "name": "Cube",
+  "personality": "Lazy",
+  "song": "K.K. Technopop",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "ooh la la",
+  "gender": "Female",
+  "villagerId": 236,
+  "name": "Claudia",
+  "personality": "Snooty",
+  "song": "K.K. Synth",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "nyoink",
+  "gender": "Male",
+  "villagerId": 237,
+  "name": "Curly",
+  "personality": "Jock",
+  "song": "K.K. Reggae",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "tu-tutu",
+  "gender": "Male",
+  "villagerId": 238,
+  "name": "Boomer",
+  "personality": "Lazy",
+  "song": "Aloha K.K.",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "hulaaaa",
+  "gender": "Female",
+  "villagerId": 239,
+  "name": "Caroline",
+  "personality": "Normal",
+  "song": "DJ K.K.",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "like whoa",
+  "gender": "Male",
+  "villagerId": 240,
+  "name": "Sparro",
+  "personality": "Jock",
+  "song": "Steep Hill",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "daahling",
+  "gender": "Female",
+  "villagerId": 241,
+  "name": "Baabara",
+  "personality": "Snooty",
+  "song": "K.K. Swing",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "grrrolf",
+  "gender": "Male",
+  "villagerId": 242,
+  "name": "Rolf",
+  "personality": "Cranky",
+  "song": "Spring Blossoms",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "honey",
+  "gender": "Female",
+  "villagerId": 243,
+  "name": "Maple",
+  "personality": "Normal",
+  "song": "I Love You",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "honk",
+  "gender": "Male",
+  "villagerId": 244,
+  "name": "Antonio",
+  "personality": "Jock",
+  "song": "K.K. Faire",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "tarnation",
+  "gender": "Female",
+  "villagerId": 245,
+  "name": "Soleil",
+  "personality": "Snooty",
+  "song": "K.K. Oasis",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "pah",
+  "gender": "Male",
+  "villagerId": 246,
+  "name": "Apollo",
+  "personality": "Cranky",
+  "song": "K.K. Rock",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "derrrrr",
+  "gender": "Male",
+  "villagerId": 247,
+  "name": "Derwin",
+  "personality": "Lazy",
+  "song": "The K. Funk",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "karat",
+  "gender": "Female",
+  "villagerId": 248,
+  "name": "Francine",
+  "personality": "Snooty",
+  "song": "I Love You",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "sparkles",
+  "gender": "Female",
+  "villagerId": 249,
+  "name": "Chrissy",
+  "personality": "Peppy",
+  "song": "K.K. Waltz",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "woof",
+  "gender": "Female",
+  "villagerId": 250,
+  "name": "Goldie",
+  "personality": "Normal",
+  "song": "K.K. Bossa",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "stuffin'",
+  "gender": "Male",
+  "villagerId": 251,
+  "name": "Stitches",
+  "personality": "Lazy",
+  "song": "K.K. Lullaby",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "cubbie",
+  "gender": "Female",
+  "villagerId": 252,
+  "name": "Pinky",
+  "personality": "Peppy",
+  "song": "Imperial K.K.",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "yippee",
+  "gender": "Female",
+  "villagerId": 253,
+  "name": "Maddie",
+  "personality": "Peppy",
+  "song": "Forest Life",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "cagey",
+  "gender": "Male",
+  "villagerId": 254,
+  "name": "Mott",
+  "personality": "Jock",
+  "song": "Marine Song 2001",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "dagnaabit",
+  "gender": "Male",
+  "villagerId": 255,
+  "name": "Billy",
+  "personality": "Jock",
+  "song": "K.K. Sonata",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "quackpth",
+  "gender": "Female",
+  "villagerId": 256,
+  "name": "Mallary",
+  "personality": "Snooty",
+  "song": "K.K. Bossa",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "uh-oh",
+  "gender": "Male",
+  "villagerId": 257,
+  "name": "Boyd",
+  "personality": "Cranky",
+  "song": "K.K. Groove",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "hippie",
+  "gender": "Male",
+  "villagerId": 258,
+  "name": "Rocco",
+  "personality": "Cranky",
+  "song": "K.K. Lament",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "purrty",
+  "gender": "Female",
+  "villagerId": 259,
+  "name": "Katt",
+  "personality": "Uchi",
+  "song": "Surfin' K.K.",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "Indeed",
+  "gender": "Male",
+  "villagerId": 260,
+  "name": "Graham",
+  "personality": "Smug",
+  "song": "Bubblegum K.K.",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "neighbor",
+  "gender": "Female",
+  "villagerId": 261,
+  "name": "Peaches",
+  "personality": "Normal",
+  "song": "K.K. Song",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "woo-oo",
+  "gender": "Male",
+  "villagerId": 262,
+  "name": "Dizzy",
+  "personality": "Lazy",
+  "song": "K.K. Gumbo",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "oh bow",
+  "gender": "Female",
+  "villagerId": 263,
+  "name": "Penelope",
+  "personality": "Peppy",
+  "song": "Bubblegum K.K.",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "baboom",
+  "gender": "Male",
+  "villagerId": 264,
+  "name": "Boone",
+  "personality": "Jock",
+  "song": "K.K. Western",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "cluckadoo",
+  "gender": "Female",
+  "villagerId": 265,
+  "name": "Broffina",
+  "personality": "Snooty",
+  "song": "K.K. Flamenco",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "as if",
+  "gender": "Male",
+  "villagerId": 266,
+  "name": "Croque",
+  "personality": "Cranky",
+  "song": "K.K. Jongara",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "kidders",
+  "gender": "Female",
+  "villagerId": 267,
+  "name": "Pashmina",
+  "personality": "Uchi",
+  "song": "K.K. Tango",
+  "specie": "Goat"
+},
+{
+  "catchPhrase": "baaa man",
+  "gender": "Male",
+  "villagerId": 268,
+  "name": "Shep",
+  "personality": "Smug",
+  "song": "K.K. Reggae",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "bonbon",
+  "gender": "Female",
+  "villagerId": 269,
+  "name": "Lolly",
+  "personality": "Normal",
+  "song": "K.K. Stroll",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "chow down",
+  "gender": "Male",
+  "villagerId": 270,
+  "name": "Erik",
+  "personality": "Lazy",
+  "song": "Neapolitan",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "wee one",
+  "gender": "Female",
+  "villagerId": 271,
+  "name": "Dotty",
+  "personality": "Peppy",
+  "song": "K.K. Technopop",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "hawkeye",
+  "gender": "Male",
+  "villagerId": 272,
+  "name": "Pierce",
+  "personality": "Jock",
+  "song": "K.K. Etude",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "chicken",
+  "gender": "Female",
+  "villagerId": 273,
+  "name": "Queenie",
+  "personality": "Snooty",
+  "song": "K.K. Gumbo",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "cha-chomp",
+  "gender": "Male",
+  "villagerId": 274,
+  "name": "Fang",
+  "personality": "Cranky",
+  "song": "K.K. Calypso",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "oh ewe",
+  "gender": "Female",
+  "villagerId": 275,
+  "name": "Frita",
+  "personality": "Uchi",
+  "song": "K.K. Rockabilly",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "picante",
+  "gender": "Male",
+  "villagerId": 276,
+  "name": "Tex",
+  "personality": "Smug",
+  "song": "K.K. Metal",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "toasty",
+  "gender": "Female",
+  "villagerId": 277,
+  "name": "Melba",
+  "personality": "Normal",
+  "song": "K.K. Ragtime",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "yip yip",
+  "gender": "Male",
+  "villagerId": 278,
+  "name": "Bones",
+  "personality": "Lazy",
+  "song": "Forest Life",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "snorty",
+  "gender": "Female",
+  "villagerId": 279,
+  "name": "Anabelle",
+  "personality": "Peppy",
+  "song": "Aloha K.K.",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "tokana",
+  "gender": "Male",
+  "villagerId": 280,
+  "name": "Rudy",
+  "personality": "Jock",
+  "song": "The K. Funk",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "moolah",
+  "gender": "Female",
+  "villagerId": 281,
+  "name": "Naomi",
+  "personality": "Snooty",
+  "song": "K.K. Milonga",
+  "specie": "Cow"
+},
+{
+  "catchPhrase": "li'l dude",
+  "gender": "Male",
+  "villagerId": 282,
+  "name": "Peewee",
+  "personality": "Cranky",
+  "song": "K.K. Rally",
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "ya heard",
+  "gender": "Female",
+  "villagerId": 283,
+  "name": "Tammy",
+  "personality": "Uchi",
+  "song": "K.K. Disco",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "whiffa",
+  "gender": "Male",
+  "villagerId": 284,
+  "name": "Olaf",
+  "personality": "Smug",
+  "song": "K.K. Milonga",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "snoooink",
+  "gender": "Female",
+  "villagerId": 285,
+  "name": "Lucy",
+  "personality": "Normal",
+  "song": "Comrade K.K.",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "tenderfoot",
+  "gender": "Male",
+  "villagerId": 286,
+  "name": "Elmer",
+  "personality": "Lazy",
+  "song": "K.K. Waltz",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "splish",
+  "gender": "Female",
+  "villagerId": 287,
+  "name": "Puddles",
+  "personality": "Peppy",
+  "song": "K.K. Ballad",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "capital",
+  "gender": "Male",
+  "villagerId": 288,
+  "name": "Rory",
+  "personality": "Jock",
+  "song": "K.K. Faire",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "puh-lease",
+  "gender": "Female",
+  "villagerId": 289,
+  "name": "Elise",
+  "personality": "Snooty",
+  "song": "Neapolitan",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "pockets",
+  "gender": "Male",
+  "villagerId": 290,
+  "name": "Walt",
+  "personality": "Cranky",
+  "song": "Agent K.K.",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "cottontail",
+  "gender": "Female",
+  "villagerId": 291,
+  "name": "Mira",
+  "personality": "Uchi",
+  "song": "K.K. Tango",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "honk honk",
+  "gender": "Male",
+  "villagerId": 292,
+  "name": "Pietro",
+  "personality": "Smug",
+  "song": "K.K. Parade",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "b-b-baby",
+  "gender": "Female",
+  "villagerId": 293,
+  "name": "Aurora",
+  "personality": "Normal",
+  "song": "K.K. Gumbo",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "haaay",
+  "gender": "Male",
+  "villagerId": 294,
+  "name": "Papi",
+  "personality": "Lazy",
+  "song": "Hypno K.K.",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "cheekers",
+  "gender": "Female",
+  "villagerId": 295,
+  "name": "Apple",
+  "personality": "Peppy",
+  "song": "I Love You",
+  "specie": "Hamster"
+},
+{
+  "catchPhrase": "ace",
+  "gender": "Male",
+  "villagerId": 296,
+  "name": "Rod",
+  "personality": "Jock",
+  "song": "K.K. March",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "kitten",
+  "gender": "Female",
+  "villagerId": 297,
+  "name": "Purrl",
+  "personality": "Snooty",
+  "song": "K.K. Swing",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "krzzt",
+  "gender": "Male",
+  "villagerId": 298,
+  "name": "Static",
+  "personality": "Cranky",
+  "song": "Surfin' K.K.",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "feathers",
+  "gender": "Female",
+  "villagerId": 299,
+  "name": "Celia",
+  "personality": "Normal",
+  "song": "K.K. Aria",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "bloop",
+  "gender": "Male",
+  "villagerId": 300,
+  "name": "Zucker",
+  "personality": "Lazy",
+  "song": "Spring Blossoms",
+  "specie": "Octopus"
+},
+{
+  "catchPhrase": "shweetie",
+  "gender": "Female",
+  "villagerId": 301,
+  "name": "Peggy",
+  "personality": "Peppy",
+  "song": "K.K. Bossa",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "zzrrbbitt",
+  "gender": "Male",
+  "villagerId": 302,
+  "name": "Ribbot",
+  "personality": "Jock",
+  "song": "Go K.K. Rider!",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "nipper",
+  "gender": "Female",
+  "villagerId": 303,
+  "name": "Annalise",
+  "personality": "Snooty",
+  "song": "K.K. Sonata",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "aiya",
+  "gender": "Male",
+  "villagerId": 304,
+  "name": "Chow",
+  "personality": "Cranky",
+  "song": "K.K. Steppe",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "ne",
+  "gender": "Female",
+  "villagerId": 305,
+  "name": "Sylvia",
+  "personality": "Uchi",
+  "song": "Rockin' K.K.",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "zut alors",
+  "gender": "Male",
+  "villagerId": 306,
+  "name": "Jacques",
+  "personality": "Smug",
+  "song": "K.K. House",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "nutmeg",
+  "gender": "Female",
+  "villagerId": 307,
+  "name": "Sally",
+  "personality": "Normal",
+  "song": "K.K. Fusion",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "ol' bunny",
+  "gender": "Male",
+  "villagerId": 308,
+  "name": "Doc",
+  "personality": "Lazy",
+  "song": "Pondering",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "rah rah",
+  "gender": "Female",
+  "villagerId": 309,
+  "name": "Pompom",
+  "personality": "Peppy",
+  "song": "K.K. Jazz",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "kerPOW",
+  "gender": "Male",
+  "villagerId": 310,
+  "name": "Tank",
+  "personality": "Jock",
+  "song": "K.K. Lament",
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "chicklet",
+  "gender": "Female",
+  "villagerId": 311,
+  "name": "Becky",
+  "personality": "Snooty",
+  "song": "K.K. Aria",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "squee",
+  "gender": "Male",
+  "villagerId": 312,
+  "name": "Rizzo",
+  "personality": "Cranky",
+  "song": "K.K. Lament",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "sunshine",
+  "gender": "Female",
+  "villagerId": 313,
+  "name": "Sydney",
+  "personality": "Normal",
+  "song": "K.K. Country",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "cubby",
+  "gender": "Male",
+  "villagerId": 314,
+  "name": "Barold",
+  "personality": "Lazy",
+  "song": "My Place",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "niblet",
+  "gender": "Female",
+  "villagerId": 315,
+  "name": "Nibbles",
+  "personality": "Peppy",
+  "song": "K.K. Technopop",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "weeweewee",
+  "gender": "Male",
+  "villagerId": 316,
+  "name": "Kevin",
+  "personality": "Jock",
+  "song": "K.K. Island",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "quacker",
+  "gender": "Female",
+  "villagerId": 317,
+  "name": "Gloria",
+  "personality": "Snooty",
+  "song": "K.K. Milonga",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "ah-rooooo",
+  "gender": "Male",
+  "villagerId": 318,
+  "name": "Lobo",
+  "personality": "Cranky",
+  "song": "K.K. Safari",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "Natch",
+  "gender": "Male",
+  "villagerId": 319,
+  "name": "Hippeux",
+  "personality": "Smug",
+  "song": "K.K. Moody",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "tootie",
+  "gender": "Female",
+  "villagerId": 320,
+  "name": "Margie",
+  "personality": "Normal",
+  "song": "K.K. Bossa",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "rrr-owch",
+  "gender": "Male",
+  "villagerId": 321,
+  "name": "Lucky",
+  "personality": "Lazy",
+  "song": "K.K. Dirge",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "silly",
+  "gender": "Female",
+  "villagerId": 322,
+  "name": "Rosie",
+  "personality": "Peppy",
+  "song": "Bubblegum K.K.",
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "mango",
+  "gender": "Male",
+  "villagerId": 323,
+  "name": "Rowan",
+  "personality": "Jock",
+  "song": "K.K. Love Song",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "duckling",
+  "gender": "Female",
+  "villagerId": 324,
+  "name": "Maelle",
+  "personality": "Snooty",
+  "song": "Cafe K.K.",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "gruff",
+  "gender": "Male",
+  "villagerId": 325,
+  "name": "Bruce",
+  "personality": "Cranky",
+  "song": "K.K. Blues",
+  "specie": "Deer"
+},
+{
+  "catchPhrase": "amigo",
+  "gender": "Male",
+  "villagerId": 326,
+  "name": "O'Hare",
+  "personality": "Smug",
+  "song": "K.K. Island",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "snacky",
+  "gender": "Female",
+  "villagerId": 327,
+  "name": "Gayle",
+  "personality": "Normal",
+  "song": "Bubblegum K.K.",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "sweatband",
+  "gender": "Male",
+  "villagerId": 328,
+  "name": "Cranston",
+  "personality": "Lazy",
+  "song": "Steep Hill",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "fribbit",
+  "gender": "Male",
+  "villagerId": 329,
+  "name": "Frobert",
+  "personality": "Jock",
+  "song": "My Place",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "grrr",
+  "gender": "Male",
+  "villagerId": 330,
+  "name": "Grizzly",
+  "personality": "Cranky",
+  "song": "K.K. Dirge",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "WHEE",
+  "gender": "Female",
+  "villagerId": 331,
+  "name": "Cally",
+  "personality": "Normal",
+  "song": "K.K. Love Song",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "zzzook",
+  "gender": "Male",
+  "villagerId": 332,
+  "name": "Simon",
+  "personality": "Lazy",
+  "song": "Forest Life",
+  "specie": "Monkey"
+},
+{
+  "catchPhrase": "waddler",
+  "gender": "Male",
+  "villagerId": 333,
+  "name": "Iggly",
+  "personality": "Jock",
+  "song": "K.K. March",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "macmoo",
+  "gender": "Male",
+  "villagerId": 334,
+  "name": "Angus",
+  "personality": "Cranky",
+  "song": "Senor K.K.",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "cheepers",
+  "gender": "Female",
+  "villagerId": 335,
+  "name": "Twiggy",
+  "personality": "Peppy",
+  "song": "K.K. Calypso",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "la-di-da",
+  "gender": "Female",
+  "villagerId": 336,
+  "name": "Robin",
+  "personality": "Snooty",
+  "song": "K.K. Bossa",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "dawayo",
+  "gender": "Female",
+  "villagerId": 337,
+  "name": "Vivian",
+  "personality": "Snooty",
+  "song": "K.K. Cruisin'",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "thumper",
+  "gender": "Male",
+  "villagerId": 338,
+  "name": "Hopkins",
+  "personality": "Lazy",
+  "song": "I Love You",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "rainbow",
+  "gender": "Female",
+  "villagerId": 339,
+  "name": "June",
+  "personality": "Normal",
+  "song": "K.K. Aria",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "chickadee",
+  "gender": "Female",
+  "villagerId": 340,
+  "name": "Piper",
+  "personality": "Peppy",
+  "song": "K.K. Synth",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "pal",
+  "gender": "Male",
+  "villagerId": 341,
+  "name": "Paolo",
+  "personality": "Lazy",
+  "song": null,
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "schnozzle",
+  "gender": "Male",
+  "villagerId": 342,
+  "name": "Hornsby",
+  "personality": "Lazy",
+  "song": "K.K. Lament",
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "baa-dabing",
+  "gender": "Female",
+  "villagerId": 343,
+  "name": "Stella",
+  "personality": "Normal",
+  "song": "Only Me",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "grrRAH",
+  "gender": "Male",
+  "villagerId": 344,
+  "name": "Tybalt",
+  "personality": "Jock",
+  "song": "K.K. Salsa",
+  "specie": "Tiger"
+},
+{
+  "catchPhrase": "hopper",
+  "gender": "Male",
+  "villagerId": 345,
+  "name": "Huck",
+  "personality": "Smug",
+  "song": "I Love You",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "hubbub",
+  "gender": "Female",
+  "villagerId": 346,
+  "name": "Sylvana",
+  "personality": "Normal",
+  "song": "Spring Blossoms",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "schnort",
+  "gender": "Male",
+  "villagerId": 347,
+  "name": "Boris",
+  "personality": "Cranky",
+  "song": "K.K. House",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "so it goes",
+  "gender": "Male",
+  "villagerId": 348,
+  "name": "Wade",
+  "personality": "Lazy",
+  "song": "K.K. Jongara",
+  "specie": "Penguin"
+},
+{
+  "catchPhrase": "little one",
+  "gender": "Female",
+  "villagerId": 349,
+  "name": "Carrie",
+  "personality": "Normal",
+  "song": "K.K. Lullaby",
+  "specie": "Kangaroo"
+},
+{
+  "catchPhrase": "bitty",
+  "gender": "Female",
+  "villagerId": 350,
+  "name": "Ketchup",
+  "personality": "Peppy",
+  "song": "Neapolitan",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "cool cat",
+  "gender": "Male",
+  "villagerId": 351,
+  "name": "Rex",
+  "personality": "Lazy",
+  "song": "Wandering",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "moo-dude",
+  "gender": "Male",
+  "villagerId": 352,
+  "name": "Stu",
+  "personality": "Lazy",
+  "song": "K.K. Rockabilly",
+  "specie": "Bull"
+},
+{
+  "catchPhrase": "grooomph",
+  "gender": "Female",
+  "villagerId": 353,
+  "name": "Ursala",
+  "personality": "Uchi",
+  "song": "K.K. Country",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "Chuuuuurp",
+  "gender": "Male",
+  "villagerId": 354,
+  "name": "Jacob",
+  "personality": "Lazy",
+  "song": "K.K. Song",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "my dear",
+  "gender": "Female",
+  "villagerId": 355,
+  "name": "Bitty",
+  "personality": "Snooty",
+  "song": "K.K. Disco",
+  "specie": "Hippo"
+},
+{
+  "catchPhrase": "schep",
+  "gender": "Female",
+  "villagerId": 356,
+  "name": "Maggie",
+  "personality": "Normal",
+  "song": "Forest Life",
+  "specie": "Pig"
+},
+{
+  "catchPhrase": "laddie",
+  "gender": "Male",
+  "villagerId": 357,
+  "name": "Murphy",
+  "personality": "Cranky",
+  "song": "Pondering",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "chicky poo",
+  "gender": "Female",
+  "villagerId": 358,
+  "name": "Plucky",
+  "personality": "Uchi",
+  "song": "K.K. Island",
+  "specie": "Chicken"
+},
+{
+  "catchPhrase": "speedy",
+  "gender": "Female",
+  "villagerId": 359,
+  "name": "Sandy",
+  "personality": "Normal",
+  "song": "K.K. Soul",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "hopalong",
+  "gender": "Male",
+  "villagerId": 360,
+  "name": "Claude",
+  "personality": "Lazy",
+  "song": "Pondering",
+  "specie": "Rabbit"
+},
+{
+  "catchPhrase": "aaach",
+  "gender": "Male",
+  "villagerId": 361,
+  "name": "Raddle",
+  "personality": "Lazy",
+  "song": "Mr. K.K.",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "dahling",
+  "gender": "Female",
+  "villagerId": 362,
+  "name": "Julia",
+  "personality": "Snooty",
+  "song": "K.K. Sonata",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "toots",
+  "gender": "Male",
+  "villagerId": 363,
+  "name": "Louie",
+  "personality": "Jock",
+  "song": null,
+  "specie": "Gorilla"
+},
+{
+  "catchPhrase": "bingo",
+  "gender": "Female",
+  "villagerId": 364,
+  "name": "Bea",
+  "personality": "Normal",
+  "song": "K.K. Soul",
+  "specie": "Dog"
+},
+{
+  "catchPhrase": "aye aye",
+  "gender": "Male",
+  "villagerId": 365,
+  "name": "Admiral",
+  "personality": "Cranky",
+  "song": "Steep Hill",
+  "specie": "Bird"
+},
+{
+  "catchPhrase": "wee one",
+  "gender": "Female",
+  "villagerId": 366,
+  "name": "Ellie",
+  "personality": "Normal",
+  "song": "Cafe K.K.",
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "munchie",
+  "gender": "Male",
+  "villagerId": 367,
+  "name": "Boots",
+  "personality": "Jock",
+  "song": "K.K. Rally",
+  "specie": "Alligator"
+},
+{
+  "catchPhrase": "quaa",
+  "gender": "Male",
+  "villagerId": 368,
+  "name": "Weber",
+  "personality": "Lazy",
+  "song": "K.K. Fusion",
+  "specie": "Duck"
+},
+{
+  "catchPhrase": "sweetie",
+  "gender": "Female",
+  "villagerId": 369,
+  "name": "Candi",
+  "personality": "Peppy",
+  "song": "K.K. Ragtime",
+  "specie": "Mouse"
+},
+{
+  "catchPhrase": "lion cub",
+  "gender": "Male",
+  "villagerId": 370,
+  "name": "Leopold",
+  "personality": "Smug",
+  "song": "Mr. K.K.",
+  "specie": "Lion"
+},
+{
+  "catchPhrase": "punk",
+  "gender": "Male",
+  "villagerId": 371,
+  "name": "Spike",
+  "personality": "Cranky",
+  "song": null,
+  "specie": "Rhino"
+},
+{
+  "catchPhrase": "baaaby",
+  "gender": "Female",
+  "villagerId": 372,
+  "name": "Cashmere",
+  "personality": "Snooty",
+  "song": "K.K. Country",
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "sluuuurp",
+  "gender": "Male",
+  "villagerId": 373,
+  "name": "Tad",
+  "personality": "Jock",
+  "song": "Wandering",
+  "specie": "Frog"
+},
+{
+  "catchPhrase": "hoof hoo",
+  "gender": "Female",
+  "villagerId": 374,
+  "name": "Norma",
+  "personality": "Normal",
+  "song": "Mountain Song",
+  "specie": "Cow"
+},
+{
+  "catchPhrase": "mate",
+  "gender": "Male",
+  "villagerId": 375,
+  "name": "Gonzo",
+  "personality": "Cranky",
+  "song": "K.K. D & B",
+  "specie": "Koala"
+},
+{
+  "catchPhrase": "zort",
+  "gender": "Male",
+  "villagerId": 376,
+  "name": "Sprocket",
+  "personality": "Jock",
+  "song": "K.K. Metal",
+  "specie": "Ostrich"
+},
+{
+  "catchPhrase": "snifffff",
+  "gender": "Female",
+  "villagerId": 377,
+  "name": "Snooty",
+  "personality": "Snooty",
+  "song": "Imperial K.K.",
+  "specie": "Anteater"
+},
+{
+  "catchPhrase": "sweet pea",
+  "gender": "Female",
+  "villagerId": 378,
+  "name": "Olive",
+  "personality": "Normal",
+  "song": "Cafe K.K.",
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "ohmmm",
+  "gender": "Male",
+  "villagerId": 379,
+  "name": "Dobie",
+  "personality": "Cranky",
+  "song": "K.K. Lament",
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "captain",
+  "gender": "Male",
+  "villagerId": 380,
+  "name": "Buzz",
+  "personality": "Cranky",
+  "song": "K.K. Rally",
+  "specie": "Eagle"
+},
+{
+  "catchPhrase": "sugar",
+  "gender": "Female",
+  "villagerId": 381,
+  "name": "Cleo",
+  "personality": "Snooty",
+  "song": "K.K. Synth",
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "bowes",
+  "gender": "Male",
+  "villagerId": 382,
+  "name": "Ike",
+  "personality": "Cranky",
+  "song": "K.K. Rock",
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "yaruwane",
+  "gender": "Female",
+  "villagerId": 383,
+  "name": "Tasha",
+  "personality": "Snooty",
+  "song": "K.K. Disco",
+  "specie": "Squirrel"
+},
+{
+  "catchPhrase": "sundae",
+  "gender": "Female",
+  "villagerId": 384,
+  "name": "Megan",
+  "personality": "Normal",
+  "song": null,
+  "specie": "Bear"
+},
+{
+  "catchPhrase": "crisp",
+  "gender": "Male",
+  "villagerId": 385,
+  "name": "Raymond",
+  "personality": "Smug",
+  "song": null,
+  "specie": "Cat"
+},
+{
+  "catchPhrase": "ayup yup",
+  "gender": "Female",
+  "villagerId": 386,
+  "name": "Reneigh",
+  "personality": "Uchi",
+  "song": null,
+  "specie": "Horse"
+},
+{
+  "catchPhrase": "foxtrot",
+  "gender": "Female",
+  "villagerId": 387,
+  "name": "Audie",
+  "personality": "Peppy",
+  "song": null,
+  "specie": "Wolf"
+},
+{
+  "catchPhrase": "rockin'",
+  "gender": "Male",
+  "villagerId": 388,
+  "name": "Cyd",
+  "personality": "Cranky",
+  "song": null,
+  "specie": "Elephant"
+},
+{
+  "catchPhrase": "indeedaroo",
+  "gender": "Male",
+  "villagerId": 389,
+  "name": "Dom",
+  "personality": "Jock",
+  "song": null,
+  "specie": "Sheep"
+},
+{
+  "catchPhrase": "myohmy",
+  "gender": "Female",
+  "villagerId": 390,
+  "name": "Judy",
+  "personality": "Snooty",
+  "song": null,
+  "specie": "Cub"
+},
+{
+  "catchPhrase": "bawwww",
+  "gender": "Male",
+  "villagerId": 391,
+  "name": "Sherb",
+  "personality": "Lazy",
+  "song": null,
+  "specie": "Goat"
+}]
